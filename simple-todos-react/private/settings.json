@@ -1,0 +1,7 @@
+{
+    "public": {
+      "env": {
+        "MONGO_URL": "'mongodb+srv://testdeployment.gzeqyda.mongodb.net/' --apiVersion 1 --username shreemangautam --password S1h2r3e4$$"
+      }
+    }
+  }
